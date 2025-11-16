@@ -1,0 +1,26 @@
+[
+    {
+        "id": "5884dacb30115dae-1763216525",
+        "name": "King Emyu",
+        "email": "kingemyu123@gmail.ocm",
+        "phone": "0857838908917",
+        "address": "Manchester, England",
+        "created_at": "2025-11-15T15:22:05+01:00"
+    },
+    {
+        "id": "0b3d57bd323438e2-1763233111",
+        "name": "Bryan Mbuemo",
+        "email": "Mbuemojagobgt@gmail.com",
+        "phone": "089517676900",
+        "address": "Manchester, England",
+        "created_at": "2025-11-15T19:58:31+01:00"
+    },
+    {
+        "id": "7205ea5f00dc7144-1763234911",
+        "name": "Benjamin Sesko",
+        "email": "seskoyy@gmail.com",
+        "phone": "082185767274",
+        "address": "Manchester, England",
+        "created_at": "2025-11-15T20:28:31+01:00"
+    }
+]
