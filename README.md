@@ -1,1 +1,3 @@
-# Judul4-PW
+Redbook adalah Sistem Manajemen Kontak Sederhana yang dirancang untuk mengelola koneksi digital. Aplikasi ini menyediakan Tampilan Daftar Kontak utama, memungkinkan pengguna untuk melihat, Mengedit, dan Menghapus entri yang ada. Inti fungsionalitasnya didukung oleh Form Tambah Kontak yang memiliki validasi wajib (untuk Nama dan Nomor) guna memastikan data yang dimasukkan akurat.
+
+Sesuai spesifikasi, keamanan akses dijamin melalui Session Management. Pengguna harus melalui proses Login sebelum dapat mengakses fitur manajemen kontak. Sistem ini berhasil memenuhi semua persyaratan, yaitu menyediakan formulir penambahan dengan validasi, tampilan daftar, fitur edit dan hapus, serta pengelolaan sesi yang aman.
